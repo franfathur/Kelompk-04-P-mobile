@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/drawable/ic_fail.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/drawable/ic_success.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/layout-hdpi/activity_belajar.xml" value="0.1" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/layout-hdpi/activity_hijaiyah.xml" value="0.1" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/layout-hdpi/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/layout-land/activity_belajar.xml" value="0.1" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/layout-land/activity_hijaiyah.xml" value="0.1" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/layout-land/activity_main.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/layout-land/activity_splash_screen.xml" value="0.11666666666666667" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/layout-ldpi/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/layout-small/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/layout/activity_belajar.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/layout/activity_dhommah.xml" value="0.1" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/layout/activity_doa.xml" value="0.13451086956521738" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/layout/activity_fathah.xml" value="0.12622415669205658" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/layout/activity_game.xml" value="0.22" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/layout/activity_harokat.xml" value="0.12" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/layout/activity_hijaiyah.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/layout/activity_kasroh.xml" value="0.1" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/layout/activity_main.xml" value="0.264026402640264" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/layout/activity_splash_screen.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/layout/activity_tanwin.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/layout/activity_tanwindhomma.xml" value="0.19829059829059828" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/layout/activity_tanwinfathah.xml" value="0.151268115942029" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/layout/activity_tanwinkasroh.xml" value="0.1" />
+        <entry key="..\:/Users/aryad/AyoMengaji/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19583333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

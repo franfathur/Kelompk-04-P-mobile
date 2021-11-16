@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/begee"
+    tools:ignore="MissingDefaultResource">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="."
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        tools:layout_editor_absoluteX="337dp"
+        tools:layout_editor_absoluteY="196dp" />
+
+
+    <ImageButton
+        android:id="@+id/belajar"
+        android:layout_width="164dp"
+        android:layout_height="52dp"
+        android:layout_alignBottom="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="-9dp"
+        android:background="@drawable/belajar"
+        tools:layout_editor_absoluteX="259dp"
+        tools:layout_editor_absoluteY="145dp" />
+
+    <ImageButton
+        android:id="@+id/game"
+        android:layout_width="162dp"
+        android:layout_height="56dp"
+        android:layout_alignBottom="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="-147dp"
+        android:background="@drawable/game"
+        tools:layout_editor_absoluteX="259dp"
+        tools:layout_editor_absoluteY="290dp" />
+
+    <ImageButton
+        android:id="@+id/Doa"
+        android:layout_width="164dp"
+        android:layout_height="53dp"
+        android:layout_alignBottom="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="-77dp"
+        android:background="@drawable/doa"
+        tools:layout_editor_absoluteX="259dp"
+        tools:layout_editor_absoluteY="215dp" />
+
+    <ImageButton
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginVertical="15dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="50dp"
+        android:background="@drawable/info"
+        tools:layout_editor_absoluteX="659dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <ImageView
+        android:id="@+id/ayob"
+        android:layout_width="424dp"
+        android:layout_height="79dp"
+        android:layout_alignBottom="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="55dp"
+        android:background="@drawable/judul"
+        tools:layout_editor_absoluteX="107dp"
+        tools:layout_editor_absoluteY="69dp" />
+
+    <ImageButton
+        android:id="@+id/close"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginVertical="15dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="50dp"
+        android:background="@drawable/close"
+        tools:layout_editor_absoluteX="659dp"
+        tools:layout_editor_absoluteY="16dp" />
+</RelativeLayout>

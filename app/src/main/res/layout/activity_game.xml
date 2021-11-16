@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/game"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/begee"
+    tools:context=".Game">
+
+    <ImageButton
+        android:layout_width="234dp"
+        android:layout_height="33dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="115dp"
+        android:background="@drawable/tool" />
+
+    <ImageButton
+        android:id="@+id/soal"
+        android:layout_width="181dp"
+        android:layout_height="19dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="120dp"
+        android:background="@drawable/pilihhurufta" />
+
+    <ImageButton
+        android:id="@+id/jawaban2"
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        android:layout_below="@+id/soal"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="223dp"
+        android:layout_marginBottom="32dp"
+        android:layout_toRightOf="@+id/jawaban1"
+        android:background="@drawable/jawabanalif" />
+
+    <ImageButton
+        android:id="@+id/jawaban1"
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        android:layout_below="@+id/soal"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="95dp"
+        android:layout_marginTop="223dp"
+        android:background="@drawable/jawabanta" />
+
+    <ImageButton
+        android:id="@+id/jawaban3"
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        android:layout_below="@+id/soal"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="223dp"
+        android:layout_marginRight="115dp"
+        android:layout_toLeftOf="@+id/jawaban1"
+        android:background="@drawable/jawabanba" />
+
+    <ImageView
+        android:layout_width="164dp"
+        android:layout_height="46dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginVertical="15dp"
+        android:background="@drawable/poin" />
+
+    <TextView
+        android:id="@+id/skor"
+        android:layout_width="95dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="34dp"
+        android:text="SKOR : "
+        android:textSize="10dp"
+        android:textStyle="bold" />
+
+    <ImageButton
+        android:id="@+id/back"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginVertical="15dp"
+        android:background="@drawable/back"
+        tools:layout_editor_absoluteX="659dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+
+</RelativeLayout>
